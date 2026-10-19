@@ -51,18 +51,18 @@ const values = [
 // Set `photo` to an image path (e.g. "/images/dr-name.jpg") once you have one;
 // until then, the initials panel is shown instead of a broken image.
 const dentist = {
-  name: "Dr.Munde Sir",
+  name: "Dr. Abhay Munde ",
   initials: "DR",
-  role: "Principal Dentist",
-  photo: null,
+  role: "Endodontist & Aesthetic",
+  photo: "/images/doctor1.png",
   bio: [
     "Write two short paragraphs here: what led you into dentistry, what you enjoy most about it, and the kind of patient experience you set out to create.",
     "Mention special interests such as root canal treatment, implants, smile design or paediatric dentistry so patients know when to ask for you.",
   ],
   credentials: [
-    "BDS — University name, year",
-    "MDS / postgraduate training — if applicable",
-    "Registered with the State Dental Council — registration no.",
+    "BDS — MIDS Dental College Latur,2015 year",
+    "MDS / postgraduate training —  Pandit Deendayal Upadhyay Dental College 2021-2022",
+    "Registered with the State Dental Council — A-37785",
     "Member of the Indian Dental Association",
   ],
   philosophy:
@@ -111,9 +111,10 @@ const visitSteps = [
 
 // EDIT_ME — team members, or delete the section if the team changes often.
 const team = [
-  { name: "Dr. Associate Name", initials: "AD", role: "Associate Dentist", photo: null },
-  { name: "Team Member Name", initials: "TM", role: "Dental Assistant", photo: null },
-  { name: "Team Member Name", initials: "FD", role: "Front Desk & Scheduling", photo: null },
+  { name: "Dr.Siraj Badal", initials: "SB", role: "Oral 7 Maxillofacial Surgeon", photo: null },
+  { name: "Dr. Shrikant kendre ", initials: "SK", role: "Pedodntist", photo: null },
+  { name: "Dr. Shilpa Bikkad ", initials: "SB", role: "Orthodontist", photo: null },
+   { name: "Dr. Vishnu Maske", initials: "VM", role: "perodontist", photo: null },
 ];
 
 // EDIT_ME — replace with REAL patient feedback (with permission).

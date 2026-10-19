@@ -11,7 +11,6 @@ const links = [
   { href: "/about", label: "About" },
   { href: "/services", label: "Services" },
   { href: "/doctors", label: "Doctors" },
-  { href: "/testimonials", label: "Testimonials" },
   { href: "/faq", label: "FAQ" },
   { href: "/contact", label: "Contact" },
 ];
@@ -25,7 +24,7 @@ const SHOW_NAME_TEXT = true;
 function LogoMark() {
   return (
     <Image
-      src="/images/Logo.png"
+      src="/images/Logo-img.png"
       alt={`${siteConfig.clinicName} logo`}
       width={160}
       height={48}
