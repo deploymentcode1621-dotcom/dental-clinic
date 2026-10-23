@@ -480,7 +480,7 @@ export default function HomePage() {
               {siteConfig.address.full}
             </p>
             <a
-              href={`https://www.google.com/maps/search/?api=1&query=${encodeURIComponent(siteConfig.mapQuery)}`}
+              href={`https://www.google.com/maps/search/?api=1&query=Shivkamal+Silver+Arch%2C+Nandi+Stop%2C+Deshpande+Colony%2C+Latur%2C+Maharashtra+413512`}
               target="_blank"
               rel="noopener noreferrer"
               className="mt-5 inline-flex items-center gap-2 text-sm font-medium text-brand hover:text-brand-dark"
