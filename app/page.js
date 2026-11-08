@@ -5,6 +5,7 @@ import SitePhoto from "@/components/SitePhoto";
 import CTASection from "@/components/CTASection";
 import MapEmbed from "@/components/MapEmbed";
 
+
 export const metadata = {
   title: "Home",
   description: `${siteConfig.tagline}. Modern dental care in ${siteConfig.city} — book your visit today.`,
